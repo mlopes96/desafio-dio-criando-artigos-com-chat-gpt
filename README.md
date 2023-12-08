@@ -1,4 +1,4 @@
-# Criação de artigos técnicos com auxílio do Chat GPT
+# Criação de artigo técnico com auxílio do Chat GPT
 Projeto criado com o objetivo de gerar um artigo técnico utilizando IAs.
 
 ## 💻 Tecnologias utilizadas no projeto
