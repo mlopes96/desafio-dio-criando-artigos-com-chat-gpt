@@ -5,4 +5,4 @@ Projeto criado com o objetivo de gerar um artigo técnico utilizando IAs.
 - [ChatGPT](https://chat.openai.com/) - para criação título e conteúdo
 - [Lexica.art](https://lexica.art/) - para obter a imagem utilizada na capa do artigo
 
-<a href="https://web.dio.me/articles/estrategias-avancadas-para-analise-de-dados-com-pandas" title="View PDF now"> 📕 Clique aqui para ler o artigo completo!/a>
+<a href="https://web.dio.me/articles/estrategias-avancadas-para-analise-de-dados-com-pandas" title="View PDF now"> 📕 Clique aqui para ler o artigo completo! </a>
